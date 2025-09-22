@@ -1,0 +1,14 @@
+{
+  "name": "🎉MyToken🎉",
+  "symbol": "MTK",
+  "description": "Acesta este tokenul meu pe Solana",
+  "image": "https://i.ibb.co/MxjRzKqj/djduerujdmfjfruff.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://i.ibb.co/MxjRzKqj/djduerujdmfjfruff.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
